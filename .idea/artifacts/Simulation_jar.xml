@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Simulation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simulation_jar</output-path>
+    <root id="archive" name="Simulation.jar">
+      <element id="module-output" name="Simulation" />
+      <element id="extracted-dir" path="$USER_HOME$/IdeaProjects/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/IdeaProjects/jfreechart-1.0.19/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
